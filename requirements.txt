@@ -11,8 +11,11 @@ mypy>=1.15.0
 ruff
 black
 httpx
-google-genai>=1.0.0
 click>=8.1.8
 a2a-sdk>=0.3.4
 nest-asyncio
 requests>=2.32.4
+google-cloud-aiplatform>=1.92.0
+google-cloud-storage>=3.0.0
+google-genai>=1.14.0
+gitpython>=3.1.40
